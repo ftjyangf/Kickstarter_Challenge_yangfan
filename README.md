@@ -1,8 +1,6 @@
 # Challenge Solution Grading Instructions
 
-The objective of this challenge is for learners to practice using Excel functions and visualization capabilities. 
-
-Because this is the first challenge of the course, expect to see submissions of varying organization. Below are the key points to look out for as you work through each assignment. 
+The objective of this analysis is for learners to using Excel functions and visualization capabilities. 
 
 ## Written Analysis
 
